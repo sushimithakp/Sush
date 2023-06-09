@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-09T10:56:56 IST" name="Suite" finished-at="2023-06-09T11:06:59 IST" duration-ms="602535">
+    <groups>
+    </groups>
+    <test started-at="2023-06-09T10:56:56 IST" name="Test" finished-at="2023-06-09T11:06:59 IST" duration-ms="602535">
+      <class name="com.qa.ohrm.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.ohrm.testcases.HomePageTest@294425a7]" started-at="2023-06-09T10:58:24 IST" name="setUp" finished-at="2023-06-09T10:58:49 IST" duration-ms="24680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getTimePage()[pri:2, instance:com.qa.ohrm.testcases.HomePageTest@294425a7]" started-at="2023-06-09T10:58:49 IST" name="getTimePage" finished-at="2023-06-09T10:58:53 IST" duration-ms="4151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTimePage -->
+        <test-method is-config="true" signature="breakDown()[pri:0, instance:com.qa.ohrm.testcases.HomePageTest@294425a7]" started-at="2023-06-09T10:58:53 IST" name="breakDown" finished-at="2023-06-09T10:58:53 IST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- breakDown -->
+      </class> <!-- com.qa.ohrm.testcases.HomePageTest -->
+      <class name="com.qa.ohrm.testcases.WeekTimeSheetTest">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:03:30 IST" name="launchURL" finished-at="2023-06-09T11:04:01 IST" duration-ms="31691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="edit()[pri:11, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:04:01 IST" name="edit" finished-at="2023-06-09T11:04:05 IST" duration-ms="3543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:04:05 IST" name="closeBrowser" finished-at="2023-06-09T11:04:05 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:04:05 IST" name="launchURL" finished-at="2023-06-09T11:04:44 IST" duration-ms="39087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="clickAddRow()[pri:12, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:04:44 IST" name="clickAddRow" finished-at="2023-06-09T11:04:48 IST" duration-ms="3686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAddRow -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:04:48 IST" name="closeBrowser" finished-at="2023-06-09T11:04:48 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:04:48 IST" name="launchURL" finished-at="2023-06-09T11:06:05 IST" duration-ms="77489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="clickReset()[pri:13, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:06:05 IST" name="clickReset" finished-at="2023-06-09T11:06:12 IST" duration-ms="6075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickReset -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:06:12 IST" name="closeBrowser" finished-at="2023-06-09T11:06:12 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:06:12 IST" name="launchURL" finished-at="2023-06-09T11:06:53 IST" duration-ms="41011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="clickCancel()[pri:14, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:06:53 IST" name="clickCancel" finished-at="2023-06-09T11:06:59 IST" duration-ms="5797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCancel -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.WeekTimeSheetTest@59309333]" started-at="2023-06-09T11:06:59 IST" name="closeBrowser" finished-at="2023-06-09T11:06:59 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.ohrm.testcases.WeekTimeSheetTest -->
+      <class name="com.qa.ohrm.testcases.TimeSheetTest">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.qa.ohrm.testcases.TimeSheetTest@1aa7ecca]" started-at="2023-06-09T11:02:07 IST" name="launchURL" finished-at="2023-06-09T11:02:33 IST" duration-ms="25929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="timeSheet()[pri:8, instance:com.qa.ohrm.testcases.TimeSheetTest@1aa7ecca]" started-at="2023-06-09T11:02:33 IST" name="timeSheet" finished-at="2023-06-09T11:02:33 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeSheet -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.TimeSheetTest@1aa7ecca]" started-at="2023-06-09T11:02:33 IST" name="closeBrowser" finished-at="2023-06-09T11:02:33 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.qa.ohrm.testcases.TimeSheetTest@1aa7ecca]" started-at="2023-06-09T11:02:33 IST" name="launchURL" finished-at="2023-06-09T11:03:01 IST" duration-ms="27609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="employee()[pri:9, instance:com.qa.ohrm.testcases.TimeSheetTest@1aa7ecca]" started-at="2023-06-09T11:03:01 IST" name="employee" finished-at="2023-06-09T11:03:01 IST" duration-ms="703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employee -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.TimeSheetTest@1aa7ecca]" started-at="2023-06-09T11:03:01 IST" name="closeBrowser" finished-at="2023-06-09T11:03:02 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.qa.ohrm.testcases.TimeSheetTest@1aa7ecca]" started-at="2023-06-09T11:03:02 IST" name="launchURL" finished-at="2023-06-09T11:03:29 IST" duration-ms="27407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="getRecord()[pri:10, instance:com.qa.ohrm.testcases.TimeSheetTest@1aa7ecca]" started-at="2023-06-09T11:03:29 IST" name="getRecord" finished-at="2023-06-09T11:03:29 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRecord -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.TimeSheetTest@1aa7ecca]" started-at="2023-06-09T11:03:29 IST" name="closeBrowser" finished-at="2023-06-09T11:03:30 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.ohrm.testcases.TimeSheetTest -->
+      <class name="com.qa.ohrm.testcases.PunchInTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.qa.ohrm.testcases.PunchInTest@9f116cc]" started-at="2023-06-09T10:59:25 IST" name="launch" finished-at="2023-06-09T11:00:01 IST" duration-ms="35809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Note()[pri:4, instance:com.qa.ohrm.testcases.PunchInTest@9f116cc]" started-at="2023-06-09T11:00:01 IST" name="Note" finished-at="2023-06-09T11:00:01 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Note -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.PunchInTest@9f116cc]" started-at="2023-06-09T11:00:01 IST" name="closeBrowser" finished-at="2023-06-09T11:00:02 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.qa.ohrm.testcases.PunchInTest@9f116cc]" started-at="2023-06-09T11:00:02 IST" name="launch" finished-at="2023-06-09T11:00:37 IST" duration-ms="35793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="In()[pri:5, instance:com.qa.ohrm.testcases.PunchInTest@9f116cc]" started-at="2023-06-09T11:00:37 IST" name="In" finished-at="2023-06-09T11:00:43 IST" duration-ms="6162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- In -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.PunchInTest@9f116cc]" started-at="2023-06-09T11:00:43 IST" name="closeBrowser" finished-at="2023-06-09T11:00:44 IST" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.ohrm.testcases.PunchInTest -->
+      <class name="com.qa.ohrm.testcases.PunchOutTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.qa.ohrm.testcases.PunchOutTest@12468a38]" started-at="2023-06-09T11:00:44 IST" name="launchBrowser" finished-at="2023-06-09T11:01:20 IST" duration-ms="36223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="enterNote()[pri:6, instance:com.qa.ohrm.testcases.PunchOutTest@12468a38]" started-at="2023-06-09T11:01:20 IST" name="enterNote" finished-at="2023-06-09T11:01:20 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterNote -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.PunchOutTest@12468a38]" started-at="2023-06-09T11:01:20 IST" name="closeBrowser" finished-at="2023-06-09T11:01:21 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.qa.ohrm.testcases.PunchOutTest@12468a38]" started-at="2023-06-09T11:01:21 IST" name="launchBrowser" finished-at="2023-06-09T11:02:01 IST" duration-ms="40564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Out()[pri:7, instance:com.qa.ohrm.testcases.PunchOutTest@12468a38]" started-at="2023-06-09T11:02:01 IST" name="Out" finished-at="2023-06-09T11:02:07 IST" duration-ms="5447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Out -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.PunchOutTest@12468a38]" started-at="2023-06-09T11:02:07 IST" name="closeBrowser" finished-at="2023-06-09T11:02:07 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.ohrm.testcases.PunchOutTest -->
+      <class name="com.qa.ohrm.testcases.LoginPageTest">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.qa.ohrm.testcases.LoginPageTest@dbf57b3]" started-at="2023-06-09T10:56:56 IST" name="launchURL" finished-at="2023-06-09T10:57:53 IST" duration-ms="56621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="title()[pri:0, instance:com.qa.ohrm.testcases.LoginPageTest@dbf57b3]" started-at="2023-06-09T10:57:53 IST" name="title" finished-at="2023-06-09T10:57:53 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.LoginPageTest@dbf57b3]" started-at="2023-06-09T10:57:53 IST" name="closeBrowser" finished-at="2023-06-09T10:57:54 IST" duration-ms="836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.qa.ohrm.testcases.LoginPageTest@dbf57b3]" started-at="2023-06-09T10:57:54 IST" name="launchURL" finished-at="2023-06-09T10:58:10 IST" duration-ms="15738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="loginSuccess()[pri:1, instance:com.qa.ohrm.testcases.LoginPageTest@dbf57b3]" started-at="2023-06-09T10:58:10 IST" name="loginSuccess" finished-at="2023-06-09T10:58:23 IST" duration-ms="13450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccess -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.LoginPageTest@dbf57b3]" started-at="2023-06-09T10:58:23 IST" name="closeBrowser" finished-at="2023-06-09T10:58:24 IST" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.ohrm.testcases.LoginPageTest -->
+      <class name="com.qa.ohrm.testcases.TimePageTest">
+        <test-method is-config="true" signature="launchTimePage()[pri:0, instance:com.qa.ohrm.testcases.TimePageTest@67d48005]" started-at="2023-06-09T10:58:53 IST" name="launchTimePage" finished-at="2023-06-09T10:59:25 IST" duration-ms="31373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTimePage -->
+        <test-method signature="clickAttendance()[pri:3, instance:com.qa.ohrm.testcases.TimePageTest@67d48005]" started-at="2023-06-09T10:59:25 IST" name="clickAttendance" finished-at="2023-06-09T10:59:25 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAttendance -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ohrm.testcases.TimePageTest@67d48005]" started-at="2023-06-09T10:59:25 IST" name="closeBrowser" finished-at="2023-06-09T10:59:25 IST" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.ohrm.testcases.TimePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
